@@ -32,3 +32,13 @@ Demographic Focus: The data reveals a young investor base focused on long-term f
 
 ✨ This task has been an incredible learning experience, enhancing my skills in data exploration, analysis, and visualization using Power BI. I’m excited for the next steps in my data adventure with Cognifyz Technologies!
 
+Task 2: Gender-based Analysis
+Objective: Analyze and visualize gender-based differences in investment preferences.
+
+Steps:
+
+Visual Comparison: Created charts comparing investment choices (equity, mutual funds, government bonds) based on gender.
+Insights: Derived insights from the visualizations, noting significant gender-based trends.
+![Task 2](https://github.com/user-attachments/assets/174a079b-281d-496e-be50-3d04702f121f)
+
+
